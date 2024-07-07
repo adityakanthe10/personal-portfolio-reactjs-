@@ -7,13 +7,15 @@ const Navbar = () => {
   return (
     <nav className = "mb-20 flex items-center justify-between py-6">
         <div className="flex flex-shrink-0 items-center">
-            <img className="mx-2 w-10" src={logo} alt="logo" />
+            <a href="#"><img className="mx-2 w-10" src={logo} alt="logo" /></a>
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
+            <a target="_blank" href="https://www.linkedin.com/in/aditya-kanthe-a63bb9214">
             <FaLinkedin />
-            <FaGithub />
-            <FaInstagram />
-            <FaSquareXTwitter />
+            </a>
+            <a target="_blank" href="https://github.com/adityakanthe10"><FaGithub /></a>
+            <a target="_blank" href="https://www.instagram.com/adityakanthe10/"><FaInstagram /></a>
+            <a target="_blank" href="https://twitter.com/aditya_kanthe"><FaSquareXTwitter /></a>
         </div>
         </nav>
   )
