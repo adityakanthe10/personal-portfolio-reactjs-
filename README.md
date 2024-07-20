@@ -1,41 +1,40 @@
 TechStack used - ReactJS,FramerMotion,Tailwind CSS.
 
+Deadline -  31/07/2024
+
 Learn Tailwind CSS and ReactJS
 # CHANGES
 
-THINK CHANGES,ADD CHANGES ,UPDATE CHANGES ,SEARCH FOR CHANGES .
+1. Let the framer motion animation to appear only once .
 
 ## Navbar
 
-1. Make the navbar Toggle and responsive.
-2. Change the logo(If possible learn and make a logo) .
-3. Add hover effect to logos - make it more white
-4. Add more 
+1. Make the navbar Toggle and responsive. Done
+2. Change the logo(If possible learn and make a logo) . DOne
+3. Add hover effect to logos - make it more white 
+4. Add navbar fixed(so that navigation is easier to home,about,project and contact section) or appear like traversy media portfolio
 
 ## HERO SECTION
 
-1. Use different fonts for name 
-2. Add and use different font for full stack developer
-3. Change the description .
-4. Add a similar type of profile image.
+1. Remove the black background of the image .
+
 
 ## ABOUT SECTION
 
-1. Change description 
-2. Change Image .
-3. Add a button for resume as Download CV
-
-## Technologies
-
-1. Change the technologies and add more .
+1. Make the image and description to appear side by side ,manage the content and image to appear good
+2. Add styling to image (Make the image rounded border)
 
 ## PROJECTS
 
-1. Change Image
-2. Change Title,description and Images.
-3. Add a effect as per video 2
+1. Add the Actual my projects and content.
+2. Add a hover effect to image such that it consists of git and live project links in icon format
+3. Make the title into link and add the live links of the projects, also a logo after the heading link of git for git repository.
 
 ## Contact
 
-1. Change the whole contact section 
+1. Make the whole contact section as per portfolio3 emailjs
+
+## Footer 
+
+1. Similar to portfolio 3 emailjs
 
