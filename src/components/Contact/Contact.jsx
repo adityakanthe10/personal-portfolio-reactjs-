@@ -1,4 +1,4 @@
-import {CONTACT} from "../index"
+import {CONTACT} from "../../index"
 import {motion} from "framer-motion"
 
 const Contact = () => {

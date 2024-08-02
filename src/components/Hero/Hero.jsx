@@ -1,5 +1,5 @@
 
-import profilePic from "../assets/Mask1.png"
+import profilePic from "../../assets/Mask1.png"
 import {motion} from "framer-motion"
 
 const container = (delay) =>({
@@ -32,7 +32,7 @@ const Hero = () => {
                  variants={container(1)}
                  initial="hidden"
                  animate="visible"
-                className="my-2 max-w-xl py-6 font-light tracking-tighter">I am a passionate full stack developer with a knack for crafting robust and scalable web applications.I have honed my skills in front-end technologies like HTML, CSS, ReactJS and as well as back-end technologies like Node.js, MySQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.</motion.p>
+                className="my-2 max-w-xl py-6 font-light tracking-tighter">I am a passionate full stack developer with a knack for crafting robust and scalable web applications.I have honed my skills in front-end technologies like HTML, CSS, ReactJS and as well as in back-end technologies like Node.js, MySQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.</motion.p>
                 </div>
             </div>
             <div className="w-full lg:w-1/2 lg:p-8">

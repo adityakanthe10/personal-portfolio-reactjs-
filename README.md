@@ -16,7 +16,7 @@ Learn Tailwind CSS and ReactJS
 
 ## HERO SECTION
 
-1. Remove the black background of the image .
+1. Remove the black background of the image . Done
 
 
 ## ABOUT SECTION

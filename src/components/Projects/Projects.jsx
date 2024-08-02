@@ -1,4 +1,4 @@
-import {PROJECTS} from "../index.js"
+import {PROJECTS} from "../../index.js"
 import {motion} from "framer-motion"
 // import {tech} from "../index.js"
 
