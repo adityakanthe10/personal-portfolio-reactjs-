@@ -7,14 +7,14 @@ const About = () => {
         <h1 className="my-20 text-center text-4xl">About 
         <span className="text-neutral-500"> Me</span>
         </h1>
-        <div className="flex flex-wrap">
+        <div className="flex flex-wrap ">
             <motion.div 
             whileInView={{opacity:1,x:0}}
             initial={{opacity:0, x:-100}}
             transition={{duration:0.5}}
             className="w-full lg:w-1/2 lg:p-8">
             <div className="flex items-center justify-center">
-                <img className=" w-[500px] h-[500px] rounded-3xl object-contain"src={aboutImage} alt="about" />
+                <img className=" w-[500px] h-[500px] rounded-2xl object-contain shadow-neon m-10 "src={aboutImage} alt="about" />
             </div>
             </motion.div>
             <motion.div 

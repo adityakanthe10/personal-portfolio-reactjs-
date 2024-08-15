@@ -1,7 +1,8 @@
-import project1 from "./assets/projects/project-1.jpg";
-import project2 from "./assets/projects/project-2.jpg";
-import project3 from "./assets/projects/project-3.jpg";
-import project4 from "./assets/projects/project-4.jpg";
+// import project1 from "./assets/projects/project-1.jpg";
+import mainpage from "./assets/projects/mainpage.png";
+import Image_fetch from "./assets/projects/Image_fetch.png";
+import Swigato from "./assets/projects/Swigato.png";
+import Vid_tube from "./assets/projects/Vid_tube.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -10,28 +11,28 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 export const PROJECTS = [
   {
     title: "StudyNotion",
-    image: project1,
+    image: mainpage,
     description:
       "StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content.",
-    technologies: ["React", "Node.js", "Express", "MongoDB"],
+    technologies: ["React", "Node", "Express", "MongoDB"],
   },
   {
     title: "Swigato",
-    image: project2,
+    image: Swigato,
     description:
       "Swigato is a fully functional online food delivery platform that enables users to browse, and order food from various restaurants. ",
-    technologies: ["React.JS", "Node.JS", "Express.JS", "MongoDB"],
+    technologies: ["React", "Node", "Express", "MongoDB"],
   },
   {
     title: "Vid_Tube",
-    image: project3,
+    image: Vid_tube,
     description:
       "Vid_Tube is a featured web application replicating YouTube's core functionalities using ReactJS, CSS, and YouTube Data API . ",
-    technologies: ["HTML", "CSS", "React.JS"],
+    technologies: ["HTML", "CSS", "React"],
   },
   {
     title: "Image Splash",
-    image: project4,
+    image: Image_fetch,
     description:
       "mage_Splash is a dynamic web project designed to bring the beauty and diversity of the world's photography to your screen with just a click. Leveraging the powerful Unsplash API.",
     technologies: ["HTML", "CSS", "JS"],
