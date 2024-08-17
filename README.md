@@ -17,4 +17,6 @@ To deploy this project run
 **Client:** React, FramerMotion, TailwindCSS
 
 
+## Live 
 
+- https://adityakanthe10.netlify.app/
