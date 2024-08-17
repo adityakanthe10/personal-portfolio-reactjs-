@@ -3,7 +3,7 @@ import {motion} from "framer-motion"
 
 const About = () => {
   return (
-    <div className="border-b neutral-900 pb-4">
+    <div className="border-b neutral-900 pb-10">
         <h1 className="my-20 text-center text-4xl">ABOUT
         <span className="text-neutral-500"> ME</span>
         </h1>
@@ -14,7 +14,7 @@ const About = () => {
             transition={{duration:0.5}}
             className="w-full lg:w-1/2 lg:p-8">
             <div className="flex items-center justify-center">
-                <img className=" w-[500px] h-[500px] rounded-2xl object-contain shadow-neon m-10 "src={aboutImage} alt="about" />
+                <img className=" w-[500px] h-[500px] rounded-2xl object-contain shadow-neon  pb-2 m-10"src={aboutImage} alt="about" />
             </div>
             </motion.div>
             <motion.div 

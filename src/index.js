@@ -12,6 +12,9 @@ export const PROJECTS = [
   {
     title: "StudyNotion",
     image: mainpage,
+    githublink:
+      "https://github.com/adityakanthe10/StudyNotion-Online-Education-Platform-MERN-EdTech-App",
+    livelink: "https://studynotionacademy.netlify.app/",
     description:
       "StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content.",
     technologies: ["React", "Node", "Express", "MongoDB"],
@@ -19,6 +22,8 @@ export const PROJECTS = [
   {
     title: "Swigato",
     image: Swigato,
+    githublink: "https://github.com/adityakanthe10/Swigato",
+    livelink: "https://food-delivery-app-frontend-krqb.onrender.com/",
     description:
       "Swigato is a fully functional online food delivery platform that enables users to browse, and order food from various restaurants. ",
     technologies: ["React", "Node", "Express", "MongoDB"],
@@ -26,6 +31,8 @@ export const PROJECTS = [
   {
     title: "Vid_Tube",
     image: Vid_tube,
+    githublink: "https://github.com/adityakanthe10/Youtube-Clone",
+    livelink: "https://mellifluous-kataifi-8524e5.netlify.app/",
     description:
       "Vid_Tube is a featured web application replicating YouTube's core functionalities using ReactJS, CSS, and YouTube Data API . ",
     technologies: ["HTML", "CSS", "React"],
@@ -33,6 +40,8 @@ export const PROJECTS = [
   {
     title: "Image Splash",
     image: Image_fetch,
+    githublink: "https://github.com/adityakanthe10/image_fetch",
+    livelink: "https://creative-kheer-d34cd7.netlify.app/",
     description:
       "mage_Splash is a dynamic web project designed to bring the beauty and diversity of the world's photography to your screen with just a click. Leveraging the powerful Unsplash API.",
     technologies: ["HTML", "CSS", "JS"],
