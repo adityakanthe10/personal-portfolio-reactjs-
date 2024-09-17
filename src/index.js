@@ -43,7 +43,7 @@ export const PROJECTS = [
     githublink: "https://github.com/adityakanthe10/image_fetch",
     livelink: "https://creative-kheer-d34cd7.netlify.app/",
     description:
-      "mage_Splash is a dynamic web project designed to bring the beauty and diversity of the world's photography to your screen with just a click. Leveraging the powerful Unsplash API.",
+      "Image_Splash is a dynamic web project designed to bring the beauty and diversity of the world's photography to your screen with just a click. Leveraging the powerful Unsplash API.",
     technologies: ["HTML", "CSS", "JS"],
   },
 ];

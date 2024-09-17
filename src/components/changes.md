@@ -10,10 +10,10 @@ Learn Tailwind CSS and ReactJS
 ## Navbar
 
 TO MAKE THE NAVBAR FLOATING
-1. Make the navbar Toggle and responsive. Done
 2. Change the logo(If possible learn and make a logo) . DOne
+1. Make the navbar Toggle and responsive. 
 3. Add hover effect to logos - make it more white 
-4. Add navbar fixed(so that navigation is easier to home,about,project and contact section) or appear like traversy media portfolio
+4. Add navbar sticky(so that navigation is easier to home,about,project and contact section) or appear like traversy media portfolio
 
 ## HERO SECTION
 
