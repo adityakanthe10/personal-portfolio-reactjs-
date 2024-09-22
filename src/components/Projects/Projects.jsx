@@ -1,12 +1,12 @@
 import {PROJECTS} from "../../index.js"
 import {motion} from "framer-motion"
-import {FaGithub} from "react-icons/fa"
+// import {FaGithub} from "react-icons/fa"
 import { LiaExternalLinkAltSolid } from "react-icons/lia";
 // import {tech} from "../index.js"
 
 const Projects = () => {
   return (
-    <div className="border-b border-neutral-900 pb-4">
+    <div id="projects" className="border-b border-neutral-900 pb-4">
     <motion.h1 
     whileInView={{opacity:1,y:0}}
     initial={{opacity:0,y:-100}}
