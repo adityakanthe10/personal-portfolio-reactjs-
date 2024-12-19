@@ -20,13 +20,40 @@ const Navbar = () => {
           <LuMenuSquare className={`${isOpen ? "hidden" : "block"}`} />
         </button>
       </div>
-      {/* <div className={`navbar w-full ${isOpen ?"hidden":"block"} md:flex-grow`}>
-            <a href="#hero" className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4">Home</a>
-            <a href="#about" className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4">About Me</a>
-            <a href="#technologies" className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4">Technologies</a>
-            <a href="#projects" className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4">Projects</a>
-            <a href="#contact" className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4">Contact</a>
-          </div> */}
+      <div
+        className={`navbar w-full ${isOpen ? "hidden" : "block"} md:flex-grow`}
+      >
+        <a
+          href="#hero"
+          className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4"
+        >
+          Home
+        </a>
+        <a
+          href="#about"
+          className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4"
+        >
+          About Me
+        </a>
+        <a
+          href="#technologies"
+          className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4"
+        >
+          Technologies
+        </a>
+        <a
+          href="#projects"
+          className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4"
+        >
+          Projects
+        </a>
+        <a
+          href="#contact"
+          className="block  mt-4 md:inline-block md:mt-0 mr-4 px-4"
+        >
+          Contact
+        </a>
+      </div>
       <div className="darkmode mx-3 w-8">
         <MdOutlineDarkMode />
       </div>
